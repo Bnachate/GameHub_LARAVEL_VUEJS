@@ -16,7 +16,8 @@ Le site est encore en peaufinage mais seule la page recap, page panier ( Cart) e
 
 Petite Aperçu : 
 
-![image](https://user-images.githubusercontent.com/72380383/111175794-0c769f80-85a9-11eb-9e06-2f5a3067d005.png)
+![image](https://user-images.githubusercontent.com/72380383/111175794-0c769f80-85a9-11eb-9e06-2f5a3067d005.png)![Uploading image.png…]()
+
 
 Voici les différentes fonctionnalités.
 
