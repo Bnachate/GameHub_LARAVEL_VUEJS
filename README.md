@@ -1,7 +1,13 @@
 # GameHub_LARAVEL_VUEJS
 Laravel comme une api & Vuejs comme Framework Front
 
-Gamehub est un site web e-commerce porposant à la vente des consoles, jeux video, accessoires.
+Date de developpement : 
+
+du 30 Novembre au 8 Decembre (3 semaines de développement ).
+
+Presentation du projet : 
+
+Gamehub est un site web e-commerce proposant à la vente des consoles, jeux video, accessoires.
 
 ![image](https://user-images.githubusercontent.com/72380383/111175053-4abf8f00-85a8-11eb-92fe-617a90121654.png)
 
